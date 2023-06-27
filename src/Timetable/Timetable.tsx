@@ -17,7 +17,7 @@ const TimeTable: React.FC = () => {
         <img src={opps} alt="opps" />
         <h1>Opps...!</h1>
 
-        <p>You have not created any timetable yet.
+        <p>You have not created any timetable yet  create.
         Click on the button below to create a timetable.</p>
     
         <button className={classes.button} onClick={(e)=>{
